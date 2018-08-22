@@ -20,7 +20,7 @@ body
 }
 .parallax { 
     /* The image used */
-    background-image: url(C:/Users/kubac/projektywizytówki/wiz1/ZenBG2.png);
+    background-image: url("ZenBG2.png");
 
     /* Full height */
     height: 100%; 
